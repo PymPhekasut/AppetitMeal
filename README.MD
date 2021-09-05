@@ -1,4 +1,4 @@
-# Recipe Application 
+# Appetit Recipe Application 
 
 Appetit application is an application that contains recipes fetching API from https://forkify-api.herokuapp.com/ by Jonas Schmedtman. I develop this application following steps as his lesson and try to creat another feature challenges and design some front-end by my own. Food  and some hand-drawn pictures were created by me via photoshop skills and some downloaded from freepik and unsplash website that allows to use for non-commercial.   
 
