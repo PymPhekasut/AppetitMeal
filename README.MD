@@ -12,6 +12,7 @@ The Appetit application features is architected in MVC patterns <the model, the 
 5) Bookmarking functionality
 6) Store bookmark data in the browser (using window.localStorage)
 7) On page load, read saved bookmarks
+8) Add new recipe (Ajax call)
 
 
 ![portfolio Appetit](https://user-images.githubusercontent.com/74609915/132121551-c04d46e5-2b32-4d70-800a-ba1f4bf1c44f.png)
