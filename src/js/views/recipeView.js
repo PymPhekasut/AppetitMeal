@@ -3,6 +3,7 @@ import View from './View.js';
 
 //import icons from '../img/icons.svg'; // parcel 1 | .. is parent folder
 import icons from 'url:../../img/icons.svg';
+// @ts-ignore
 import{ Fraction } from 'fractional';
 
 //console.log(Fraction)
